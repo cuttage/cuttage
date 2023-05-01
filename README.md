@@ -2,7 +2,7 @@
 
 ![Cuttage's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuttage&show_icons=true&bg_color=00000000)
 ### 🔭 I’m currently working on
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuttage&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuttage&bg_color=00000000)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/cuttage?tab=repositories))
 <!--
 **cuttage/cuttage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
