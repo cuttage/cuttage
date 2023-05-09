@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Cuttage's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuttage&show_icons=true&bg_color=00000000)](https://github.com/cuttage?tab=repositories)
+[![Cuttage's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cuttage&show_icons=true&bg_color=00000000)](https://github.com/cuttage?tab=repositories)
 ### 🔭 I’m currently working on
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuttage&bg_color=00000000)](https://github.com/cuttage?tab=repositories)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cuttage&bg_color=00000000)](https://github.com/cuttage?tab=repositories)
 ### 💬 Ask me about
 ![image](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![image](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8)
